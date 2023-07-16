@@ -6,3 +6,4 @@ MANDE HUMPHREY  https://github.com/Humblehumphrey/Made-Humphrey
 KURRE BOSCO https://github.com/boscokurre/bosco/blob/main/README.md
 MUHUMUZA KLEIN https://github.com/KLEINDENIS/KLEINDENIS.git
 LUYIMA RODNEY https://github.com/Luyimarodine/education
+LAKER JOANNA http://github.com/lakerjoana/LAKER-JOANNA-/edit/main/README.md
