@@ -14,3 +14,5 @@ MUHUMUZA KLEIN https://github.com/KLEINDENIS/KLEINDENIS.git
 LUYIMA RODNEY https://github.com/Luyimarodine/education
 
 LAKER JOANNA http://github.com/lakerjoana/LAKER-JOANNA-/edit/main/README.md
+
+  LWANGA SHAWN    https://github.com10-LG/shawn.git
